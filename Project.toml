@@ -1,4 +1,5 @@
 [deps]
+AbaqusReader = "bc6b9049-e460-56d6-94b4-a597b2c0390d"
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 FEMSparse = "dcdf9ed5-39e7-592a-90de-966c054b7718"
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
@@ -6,4 +7,7 @@ GaussQuadrature = "d54b0c1a-921d-58e0-8e36-89d8069c0969"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SymRCM = "286e6d88-80af-4590-acc9-0001b223b9bd"
 TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
+WriteVTK = "64499a7a-5c06-52f2-abe2-ccb03c286192"
