@@ -47,24 +47,24 @@ Then the virtual environment can be activated for installation.
 
 Then we can install the required packages. It can be done with the following command
 ```Julia
-    ] instantiate
+] instantiate
 ```
 
 Or install them one by one
 ```Julia
-    using Pkg
-    Pkg.add("IJulia")
-    Pkg.add("Plots")
-    Pkg.add("LaTeXStrings")
-    Pkg.add("GaussQuadrature")
-    Pkg.add("ForwardDiff")
-    Pkg.add("FEMSparse")
-    Pkg.add("AbaqusReader")
-    Pkg.add("AlgebraicMultigrid")
-    Pkg.add("IterativeSolvers")
-    Pkg.add("Preconditioners")
-    Pkg.add("WriteVTK")
-    Pkg.add("BenchmarkTools")
-    Pkg.add("SymRCM")
-    Pkg.add("UnicodePlots")
+using Pkg
+Pkg.add("IJulia")
+Pkg.add("Plots")
+Pkg.add("LaTeXStrings")
+Pkg.add("GaussQuadrature")
+Pkg.add("ForwardDiff")
+Pkg.add("FEMSparse")
+Pkg.add("AbaqusReader")
+Pkg.add("AlgebraicMultigrid")
+Pkg.add("IterativeSolvers")
+Pkg.add("Preconditioners")
+Pkg.add("WriteVTK")
+Pkg.add("BenchmarkTools")
+Pkg.add("SymRCM")
+Pkg.add("UnicodePlots")
 ```
